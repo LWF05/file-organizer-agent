@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+.file_agent_history.json
+.file_agent_history.json.tmp
